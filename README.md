@@ -54,19 +54,7 @@ This introduction has specifically been designed for biomedical signal processin
 
 ## Installation
 
-```
-python3 -mvenv env
-. env/bin/activate
-pip3 install --upgrade pip
-pip3 install wheel
-pip3 install jupyterlab
-pip3 install matplotlib
-pip3 install nolds
-pip3 install mne
-pip3 install fathon
-```
-
-## Git-repo
+## 1. Git-repo
 
 1. Clone this repo in your laptop
 
@@ -78,7 +66,7 @@ pip3 install fathon
 
 2. You can always download this folder from the website
 
-## Linux and MacOS
+## 2A. Linux and MacOS
 
 1. Open the terminal and verify to have python3 by running
 
@@ -114,7 +102,7 @@ jupyter-lab
 5. Test the tutorials (.ipynb file) by pressing Shift + Enter with your keyboard
 6. Enjoy
 
-## Windows
+## 2B. Windows
 
 1. Create an Anaconda environment
 
@@ -162,7 +150,7 @@ jupyter-lab
 
 13. Enjoy
 
-## WINDOWS (if you are kind of GEEKY)
+## 2C. WINDOWS (if you are kind of GEEKY)
 
 1. Windows Linux Subsystem (WSL): You can repeat the step above in the new WSL terminal if installed in windows --> See https://docs.microsoft.com/en-us/windows/wsl/install-win10#simplified-installation-for-windows-insiders
 2. Enjoy again
